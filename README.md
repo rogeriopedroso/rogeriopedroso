@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou cursando Analise e Desenvolvimento de Sistemas [Desenvolvimento Web](https://rogeriopedroso.github.io/responsive-site/)
 
-- 🌱 Atualmente estou aprendendo NodeJS **NestJS**
+- 🌱 Atualmente estou aprendendo NodeJS **Express**
 
 - 👯 Estou desenvolvendo trabalhos a nível didático [NFL Week](https://rogeriopedroso.github.io/nfl_esports/)
 
